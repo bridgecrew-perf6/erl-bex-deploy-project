@@ -1,0 +1,140 @@
+{
+  "products": [
+    {
+      "title": "Woven slippers",
+      "type": "Felt shoes",
+      "price": 1795,
+      "description": "Home woven slippers made of pure sheep wool . Wool fibers absorb excess moisture, which provides comfortable dry heat to the legs. The sole of slippers is made of calfskin of vegetable tanning.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2022/01/DSC00367-1320x970.jpg",
+      "id": 1
+    },
+    {
+      "title": "Bedsiderug",
+      "type": "Interior",
+      "price": 6935,
+      "description": "The rug is handmade in wet-felting technique with 100% wool. The reverse side is applied by silicone threads which make it anti-slippery. Such rugscan be used also onfloors with underfloor heatings.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/12/0W2A7531-1320x846.jpg",
+      "id": 2
+    },
+    {
+      "title": "Scarf with a print",
+      "type": "Accessories",
+      "price": 2014,
+      "description": "Scarf with a print in animal style is made in the technique of nuno-felting. Combination of light cotton fabric with a thin layer of merino wool. Warm, airy and light tippet suitable for autumn and winter season.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/10/06-1320x1659.jpg",
+      "id": 3
+    },
+    {
+      "title": "Wool shawl",
+      "type": "Accessories",
+      "price": 2798,
+      "description": "The felting tippet handmade from a 70% Merino wool and 30% natural silk. Warm, airy and light tippet suitable for autumn and winter season.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/10/0W2A0715.jpg",
+      "id": 4
+    },
+    {
+      "title": "Scarf – tube",
+      "type": "Accessories",
+      "price": 2201,
+      "description": "Scarf – tube in the technique of nuno-felting from 70% merino wool and 30% natural silk, handmade. Lightweight, airy scarf suitable for the autumn-winter season.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/10/10-1320x1659.jpg",
+      "id": 5
+    },
+    {
+      "title": "Origami tote bag",
+      "type": "Accessories",
+      "price": 1819,
+      "description": "The felt bag is made of 100% sheep’s wool. It can be folded to a flat shape and can be used in two sizes. There is one internal pocket. the Handles are made of textile strap.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2020/11/MG_9699-1320x1931.jpg",
+      "id": 6
+    },
+    {
+      "title": "Office slippers",
+      "type": "Felt shoes",
+      "price": 2170,
+      "description": "Stitched moccasins made of wool felt, lightweight and comfortable to wear. Rubber lacing provides a good fixation on the foot. Wool fibers absorb excess moisture, which provides comfortable dry warmth.  The sole of the slippers is made of natural rubber to protect against moisture and cold, as well as for anti-slip properties.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/06/MG_3049.jpg",
+      "id": 7
+    },
+    {
+      "title": "Felt Ballet Flats",
+      "type": "Felt shoes",
+      "price": 1990,
+      "description": "The materials and technology of production meet safety requirements. Dyes applied in the production are safe and harmless for health.\nWe recommend dry cleaning with a brush. In special cases felt items can also be hand-washed by ensuring the following conditions: warm water no higher than 35 °С, using soap and brush. Otherwise, the item may significantly decrease in size under the influence of hot water or high mechanical pressure. It is recommended to give a form to the item and dry in shade after washing a felt product.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/06/0W2A1876-1320x1980.jpg",
+      "id": 8
+    },
+    {
+      "title": "Sewn slippers",
+      "type": "Felt shoes",
+      "price": 1643,
+      "description": "Sewn slippers made of pure sheep wool felt are light and comfortable to wear. Wool fibers absorb excess moisture, which provides comfortable dry heat to the legs. The sole of slippers is made of calfskin.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/06/0W2A0451-1320x1980.jpg",
+      "id": 9
+    },
+    {
+      "title": "Toddler mocassins",
+      "type": "Felt shoes",
+      "price": 1200,
+      "description": "Stitched mocassins made of wool felt, lightweight and comfortable to wear. Well fixed on the foot due to sewn in elastic rubber. Wool fibers absorb excess moisture, which provides comfortable dry warmth.  The sole of the slippers is made of calfskin.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/06/5-1320x1912.jpg",
+      "id": 10
+    },
+    {
+      "title": "Сushion",
+      "type": "Interior",
+      "price": 1800,
+      "description": "The cushion is handmade in nuno-felting technique with wool and cotton fabric layers. Such combination of materials makes the fabric resistant to deformation during use and cleaning. At the same time, all the unique health benefits of wool are preserved. Composition: 40% cotton, 60% merino wool.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/12/0W2A7188-1320x880.jpg",
+      "id": 11
+    },
+    {
+      "title": "Shaped chair seat pad",
+      "type": "Interior",
+      "price": 1017,
+      "description": "Seat pad is hand felted in the technique of nunofelting of 100% natural sheep’s wool and dense cotton calico.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2020/07/AkS-17.1-1320x1915.jpg",
+      "id": 12
+    },
+    {
+      "title": "Bedsiderug",
+      "type": "Interior",
+      "price": 8585,
+      "description": "The rug is handmade in wet-felting technique with 100% wool. The reverse side is applied by silicone threads which make it anti-slippery. Such rugscan be used also onfloors with underfloor heatings.",
+      "img": "https://shop.tumar.com/wp-content/uploads/2021/12/0W2A8694-1320x1639.jpg",
+      "id": 14
+    }
+  ],
+  "comment": [
+    {
+      "commit": "123",
+      "user": "admin@admin.com",
+      "prodId": "prodId",
+      "id": 2
+    },
+    {
+      "commit": "22333",
+      "user": "admin@admin.com",
+      "prodId": "prodId",
+      "id": 3
+    },
+    {
+      "commit": "sadad",
+      "user": "admin@admin.com",
+      "prodId": "prodId",
+      "id": 4
+    },
+    {
+      "commit": "123",
+      "user": "admin@admin.com",
+      "prodId": "prodId",
+      "id": 5
+    },
+    {
+      "commit": "123dasda",
+      "user": "admin@admin.com",
+      "prodId": "prodId",
+      "id": 6
+    }
+  ]
+}
